@@ -1,0 +1,7 @@
+mono.cpp is a c++ script 
+To compile use command as below 
+    g++ -std=c++0x mono.cpp
+
+To execute use command as below
+    ./a.out
+    Note : -std=x++0x is used because I have used unordered_map as hash table in my program

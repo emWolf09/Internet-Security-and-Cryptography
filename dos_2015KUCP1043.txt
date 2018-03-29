@@ -1,0 +1,26 @@
+Name : Mahesh Nagarwal
+ID   : 2015KUCP1043
+
+
+Answer (1)
+
+           Objective -Perform DOS attack on any website.
+
+           Needed- (a)python ide (to execute python script) , 
+                   (b)terminal interface
+                   (c)broweser (to check or browse the target website) 
+
+           Tools - Torshammer – a slow-rate DDoS attack tool (link - http://blog.nexusguard.com/slow-rate-ddos/)
+
+           Description -
+
+                         Tor’s Hammer is a slow-rate DDoS attack tool that is efficient and very disruptive on most apache servers.
+Similar to regular volumetric DDoS attacks, slow-rate DDoS attacks exhaust web server resources by generating a large amount of connections for as long as possible. More technically, it uses the classic form of slow POST attack, generating HTTP POST requests and connections that will hold for around 1000-30000 seconds.
+ 
+Instead of leveraging huge attack bandwidth or large amounts of HTTP requests per second, slow-rate DDoS attacks simply exploit the maximum current connection time apache servers can handle.
+
+          How to use tool - 
+                When we download this tool there is a script named torshammer.py we provide a ip address which will be our target.  we run this file using terminal.
+                for example ip address of our intitute site www.iiitkota.ac.in is 210.212.97.132 (when I performed)
+
+          Result - after executing this file if we hit this ip in browser we can see ourselves that it is under dos and not responding

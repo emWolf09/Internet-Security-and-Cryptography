@@ -1,0 +1,3 @@
+input string length is 44
+encrypted_text is ê°y>Ô^søˆ¢îj8`ÿù¼Z\ÓëEÖsC|#¿n*Y‰¢â¬`Û9YJ$¾’
+length of encrypted_text is 48
